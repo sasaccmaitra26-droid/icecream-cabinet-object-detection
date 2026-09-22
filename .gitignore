@@ -1,0 +1,41 @@
+# Virtual Environments
+.venv/
+.venv-labelimg/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Dataset
+Data/raw/videos/
+Data/interim/extracted_frames/
+Data/cropped
+
+# YOLO output
+runs/
+weights/
+
+# Annotation output backups
+*.xml
+
+# Large images/videos
+*.mp4
+*.avi
+*.mov
+
+
+
+# Windows
+Th*mbs.db
+Desktop.ini
